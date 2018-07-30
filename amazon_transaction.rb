@@ -1,2 +1,6 @@
 # Code your cash register here!
-class
+class AmazonTransaction
+  attr_accessor :total
+def initialize 
+end
+end
